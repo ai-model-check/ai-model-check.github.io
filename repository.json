@@ -1,0 +1,14 @@
+{
+  "owner": "ai-model-check",
+  "name": "ai-model-check.github.io",
+  "visibility": "public",
+  "default_branch": "main",
+  "description": "AI 模型身份探针公开快照，按模型和站点查看，数据来自 Folkbench。",
+  "homepage": "https://ai-model-check.github.io/",
+  "topics": [
+    "llm",
+    "ai-api",
+    "model-identity",
+    "public-data"
+  ]
+}
